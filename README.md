@@ -1,3 +1,9 @@
+# blackroad-mod-manager
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/blackroad-mod-manager)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/blackroad-mod-manager)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # 🖤🛣️ BlackRoad Mod Manager
 
 Part of the BlackRoad Product Empire - 350+ enterprise solutions
